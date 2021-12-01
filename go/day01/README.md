@@ -45,7 +45,10 @@ To do this, count the number of times a depth measurement increases from the pre
 263 (increased)
 In this example, there are 7 measurements that are larger than the previous measurement.
 
-How many measurements are larger than the previous measurement? 1722
+How many measurements are larger than the previous measurement?
+```  
+My answer: 1722
+```  
 </details>
 
 <details>
@@ -83,7 +86,17 @@ G: 769 (increased)
 H: 792 (increased)
 In this example, there are 5 sums that are larger than the previous sum.
 
-Consider sums of a three-measurement sliding window. How many sums are larger than the previous sum? 1748
+Consider sums of a three-measurement sliding window. How many sums are larger than the previous sum? 
+```  
+My answer: 1748
+```  
 
 </details>
 
+<details>
+  <summary>My Comments</summary>
+  <br/>
+  
+  After several weeks (or is it months?) of not writing in Go, I had forgotten the basic syntax of for loops!  Duh...  
+  The puzzle itself was pretty basic for starters. On to the next...
+</details>  
