@@ -93,3 +93,10 @@ My answer: 1748
 
 </details>
 
+<details>
+  <summary>My Comments</summary>
+  <br/>
+  
+  After several weeks (or is it months?) of not writing in Go, I had forgotten the basic syntax of for loops!  Duh...  
+  The puzzle itself was pretty basic for starters. On to the next...
+</details>  
