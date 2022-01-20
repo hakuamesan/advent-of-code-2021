@@ -5,14 +5,27 @@ Day NN: <Topic>
   <summary>Puzzle explanation</summary>
 <br/>
 Some complex puzzle
-
+```
+The answer is:
+```
 </details>
 
 <details>
   <summary>Puzzle Part 2 </summary>
 <br/>
 
-More puzzles
+
+```
+The answer is:
+```
+</details>
+
+
+<details>
+  <summary>My Comments</summary>
+<br/>
+
+I did these things...
 
 </details>
 
